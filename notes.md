@@ -14,3 +14,13 @@
 
 ## Use Form
 import { FormsModule } from '@angular/forms';
+
+
+## Router
+    app.routing.ts
+    app.moudle.ts
+    navbar.component.ts
+
+## Search
+    app.moudle.ts
+        import { FormsModule } from '@angular/forms';
